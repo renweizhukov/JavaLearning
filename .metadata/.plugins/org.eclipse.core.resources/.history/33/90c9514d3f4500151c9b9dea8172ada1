@@ -1,0 +1,15 @@
+package greetings.hello;
+
+public class HelloWorld 
+{
+	public static void main(String[] args)
+	{
+		System.out.println("Hello world!");
+		
+		int number = 3;
+		System.out.println(number);
+		
+		String name = "Joe";
+		System.out.println(name);
+	}
+}
